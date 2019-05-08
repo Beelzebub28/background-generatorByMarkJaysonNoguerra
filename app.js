@@ -17,8 +17,3 @@ color1.addEventListener('input', colorPicker)
 color2.addEventListener('input', colorPicker)
 
 
-var triple = function(x) {
-	return x * 3
-}
-var waffle = triple
-waffle(30)
